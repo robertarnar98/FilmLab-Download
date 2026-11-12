@@ -10,7 +10,7 @@ A RAW converter with film emulation for the Mac. Open a CR3, ARW, NEF, RAF or DN
 
 1. Double-click the **.dmg** file.
 2. Drag **FilmLab** onto the **Applications** folder.
-3. Open it from Applications. The first time, macOS says it can't verify the app: click **Done**, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. Open it from Applications. It's signed by Tungl Media and approved by Apple, so it opens straight away (macOS just asks once whether you want to open an app you downloaded).
 
 ## Updates
 
