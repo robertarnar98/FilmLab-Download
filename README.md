@@ -2,6 +2,10 @@
 
 A RAW converter with film emulation for the Mac. Open a CR3, ARW, NEF, RAF or DNG, pick a film look (Kodak, Fujifilm, Leica, Cinestill, Ilford…) rendered on your own photo, fine-tune it, and export a JPEG or TIFF. Everything happens on your own Mac: your photos are never uploaded.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/5b7ee2e3-0042-4083-b492-8fe1a806ec99
+
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/FilmLab-Download/releases/latest)**: click the **FilmLab-….dmg** file under *Assets*.
