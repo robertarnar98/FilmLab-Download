@@ -32,6 +32,6 @@ FilmLab is free and provided "as is", without any warranty. To the extent the la
 
 FilmLab includes open-source software (LibRaw, Python, NumPy, Pillow and others). Their licences are in **Open-Source Licences.txt** next to the app in the download, and inside the app.
 
-The looks have FilmLab's own names. They are FilmLab's interpretations of classic film and camera colour, not copies of any product. FilmLab is not affiliated with or endorsed by any film or camera maker.
+The looks are grouped by the film or camera maker that inspired them ("Inspired by Kodak", "Inspired by Fujifilm"…), and each one names the film or profile it is based on. They are FilmLab's own interpretations, not copies of any product. FilmLab is not affiliated with or endorsed by any film or camera maker.
 
 Needs macOS 13 Ventura or newer · Apple Silicon Macs (M1 or newer) · by Tungl Media
